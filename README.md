@@ -29,7 +29,7 @@ Install my-project with Android installer
 Sign Up 
 ```
 
-![App Screenshot](../res/Home 1.png)
+![App Screenshot](./res/Home 1.png)
 
 
 ```android
